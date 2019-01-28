@@ -34,6 +34,16 @@ They decided it would be nice to add a "See other images" button, which upon bei
 
 The client wants the images to change with each page load, so every time they view the site it feels like a new set of images. 
 
+### Task 3: "Images look squished on my mobile"
+
+The client loved what you've done so far! But when they looked at it on their phone, the images were way to small (They made a real scene, then ate all the biscuits!)!
+
+Find a way to use the grid system in Bootstrap to make the images larger on smaller screens, while on desktops still show 3 per a row.
+
+### Task 4: "Change images per a page"
+
+This isn't required, but the client mentioned sometimes they'd one day like to vary the amount of images shown per a page! See if you can show up to 12 per a page.
+
 ## Credits
 
 Images from: https://imgur.com/gallery/lgibJ
