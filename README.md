@@ -1,4 +1,4 @@
-# Space Images site
+# Space Images site
 
 ## Scenario
 
