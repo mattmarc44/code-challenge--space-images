@@ -40,7 +40,11 @@ The client loved what you've done so far! But when they looked at it on their ph
 
 Find a way to use the grid system in Bootstrap to make the images larger on smaller screens, while on desktops still show 3 per a row.
 
-### Task 4: "Change images per a page"
+### Task 4: "Click to download"
+
+The client really wants people be able to download some of the images on the site by making them downloadable. Find a way to add a download button under each image, when upon clicking will download the image (Not just open it in a new tab). The [download](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#Attributes) attribute might be helpful here.
+
+### Task 5: "Change number of images per a page"
 
 This isn't required, but the client mentioned sometimes they'd one day like to vary the amount of images shown per a page! See if you can show up to 12 per a page.
 
