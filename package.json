@@ -1,0 +1,11 @@
+{
+  "name": "space-image-sites",
+  "version": "1.0.0",
+  "description": "Share photos of space",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "underscore": "^1.9.1"
+  }
+}
