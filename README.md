@@ -6,7 +6,7 @@ You've just been handed a project from a new client who is really into photos of
 
 They started doing the changes themselves (So have left a few comments in the code, along with a few debugging notices), but were called off into an adventure. So it's up to you to finish the job! 
 
-## Getting setup
+## Getting setup
 
 Fork this repo onto your own account (Click the "Fork" button on the top right of this page), then clone the forked repo to your local machine.
 
@@ -20,7 +20,7 @@ From there, you should just be able to drag and drop the `index.html` into your 
 
 ### When you're done
 
-Commit your changes & push them up to your forked repo. Then open a Pull Request for ..., we'll review you work remotely!
+Commit your changes & push them up to your forked repo. Then open a Pull Request against https://github.com/MikeRogers0/space-images, we'll review you work remotely!
 
 ## Your tasks
 
