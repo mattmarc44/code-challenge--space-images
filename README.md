@@ -20,7 +20,7 @@ From there, you should just be able to drag and drop the `index.html` into your 
 
 ### When you're done
 
-Commit your changes & push them up to your forked repo. Then open a Pull Request against https://github.com/MikeRogers0/space-images, we'll review you work remotely!
+Commit your changes & push them up to your forked repo. Then open a Pull Request against https://github.com/MikeRogers0/code-challenge--space-images, we'll review you work remotely!
 
 ## Your tasks
 
