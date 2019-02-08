@@ -7,5 +7,8 @@
     "bootstrap": "^4.2.1",
     "jquery": "^3.3.1",
     "underscore": "^1.9.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/mattmarc44/code-challenge--space-images.git",
+  "author": "Matt Titmuss <45769440+mattmarc44@users.noreply.github.com>"
 }
